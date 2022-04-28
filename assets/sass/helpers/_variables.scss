@@ -1,0 +1,35 @@
+/*---------------------------
+	Fonts
+----------------------------*/
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap');
+
+
+// fonts
+$base-font-size: 15px;
+$base-font: 'Ubuntu', sans-serif;
+$heading-font: 'Ubuntu', sans-serif;
+
+
+// color
+$dark-gray: #001E37;//
+$body-color:  #EDEDED;//
+$white: #fff;
+$small-white: #A892CC;//
+$light: #F5F6F8;//
+$black: #000;
+$cyan:#BE97FF;//
+
+$theme-primary-color: #6D1FEE;//
+$theme-secondary-color: #022651;//
+$theme-primary-color-s3: #62488C;//
+$theme-primary-color-s4:#EDE5FB;//
+$theme-primary-color-s5:#0DD7B2;//
+$body-bg-color: #fff;
+$section-bg-color: #79777D;//
+$text-color: #828086;//
+$text-color-s2: #D0B9F4;//
+$text-light-color: #867F93;//
+$heading-color: $dark-gray;
+$border-color:#F6F6F6;//
+$border-color-s2: #DCE0E8;//
+$border-color-s3: #E3E8F1;//
